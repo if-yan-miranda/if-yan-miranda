@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi 👋
+# My Name is Yan Miranda!
+
+## About me:
+Brazilian, 26 years-old, I'm gratuated in Management at Federal University of Para and now I'm stuying Data Science in a MBA at USP.
+
+Please check some of my projects in my portfolio: https://github.com/if-yan-miranda/Portiflio
+
+Connect with me on linkedin: https://www.linkedin.com/in/yan-alessandro-10a083126/
 
 <!--
 **if-yan-miranda/if-yan-miranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
