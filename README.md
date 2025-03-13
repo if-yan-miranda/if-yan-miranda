@@ -2,7 +2,7 @@
 # My Name is Yan Miranda!
 
 ## About me:
-Brazilian, 26 years-old, I'm gratuated in Management at Federal University of Para and now I'm stuying Data Science in a MBA at USP.
+Brazilian, 27 years-old, I'm gratuated in Management at Federal University of Para and now I'm stuying AI / Data Science / MLops and ML Engineering.
 
 Please check some of my projects in my portfolio: https://github.com/if-yan-miranda/Portiflio
 
